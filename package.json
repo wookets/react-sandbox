@@ -1,0 +1,28 @@
+{
+  "name": "react-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wookets/react-sandbox"
+  },
+  "keywords": [
+    "react",
+    "sandbox"
+  ],
+  "author": "wookets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wookets/react-sandbox/issues"
+  },
+  "homepage": "https://github.com/wookets/react-sandbox",
+  "dependencies": {
+    "express": "^4.12.3",
+    "react": "^0.13.1"
+  }
+}
