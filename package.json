@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/wookets/react-sandbox",
   "dependencies": {
-    "express": "^4.12.3",
-    "react": "^0.13.1"
+    "express": "^4.16.3",
+    "react": "^16.3.2"
   }
 }
