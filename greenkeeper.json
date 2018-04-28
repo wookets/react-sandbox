@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "public/skit/examples/basic-commonjs/package.json",
+        "public/skit/examples/server-rendering/jsapp/package.json",
+        "public/skit/examples/server-rendering/reactserver/package.json"
+      ]
+    }
+  }
+}
